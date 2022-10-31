@@ -3,7 +3,7 @@ to be paired with [Discogs App v2 Frontend](https://github.com/thomasrcham/disco
 
 originally cloned from the [Flatiron School Phase 3 Project Starter Code](https://github.com/learn-co-curriculum/phase-3-sinatra-react-project)
 
-A backend API server using Ruby and ActiveRecord (along with some clutch gems) to pull information about my Discogs collection and present it in an interesting and interactable format. A continuation of the ideas and motivations behind the vanilla JS-only [Discogs Utility](https://github.com/thomasrcham/discogs-utility).
+A backend API server using Ruby, ActiveRecord, and Sinatra (along with some clutch gems) to pull information about my Discogs collection and present it in an interesting and interactable format. A continuation of the ideas and motivations behind the vanilla JS-only [Discogs Utility](https://github.com/thomasrcham/discogs-utility).
 
 ## GOALS OF PROJECT
 - I want to be able to view the library in more manageable and enjoyable ways than the default Discogs presentation, which is both aesthetically sparse and informationally overwhelming.
